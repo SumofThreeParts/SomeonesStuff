@@ -295,7 +295,7 @@
   graph: HiltWoodGraph
   startNode: start
   targetNode: hilt
-  category: construction-category-tools
+  category: construction-category-weapons
   objectType: Item
   description: crafting-menu-text-WH
 
@@ -315,7 +315,7 @@
   graph: BladeSteelGraph
   startNode: start
   targetNode: blade
-  category: construction-category-tools
+  category: construction-category-weapons
   objectType: Item
   description: crafting-menu-text-SB
 
@@ -429,15 +429,15 @@
 #  objectType: Item
 #  description: crafting-menu-text-PSHG
 
-#- type: construction
-#  name: crafting-menu-name-MVT
-#  id: ClothingOuterArmorMakeshift
-#  graph: ClothingOuterArmorMakeshiftGraph
-#  startNode: start
-#  targetNode: vest
-#  category: construction-category-clothing
-#  objectType: Item
-#  description: crafting-menu-text-MVT
+- type: construction
+  name: crafting-menu-name-MVT
+  id: ClothingOuterArmorMakeshift
+  graph: ClothingOuterArmorMakeshiftGraph
+  startNode: start
+  targetNode: vest
+  category: construction-category-weapons
+  objectType: Item
+  description: crafting-menu-text-MVT
 
 #- type: construction
 #  name: crafting-menu-name-IVT
