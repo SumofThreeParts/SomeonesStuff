@@ -3,5 +3,5 @@
   graph: BananiumHorn
   startNode: start
   targetNode: bananiumHorn
-  category: construction-category-utilities
+  category: construction-category-misc
   objectType: Item
