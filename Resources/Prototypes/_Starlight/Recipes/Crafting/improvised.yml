@@ -295,7 +295,7 @@
   graph: HiltWoodGraph
   startNode: start
   targetNode: hilt
-  category: construction-category-weapons
+  category: construction-category-misc
   objectType: Item
   description: crafting-menu-text-WH
 
@@ -315,7 +315,7 @@
   graph: BladeSteelGraph
   startNode: start
   targetNode: blade
-  category: construction-category-weapons
+  category: construction-category-misc
   objectType: Item
   description: crafting-menu-text-SB
 
