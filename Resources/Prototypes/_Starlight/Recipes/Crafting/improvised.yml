@@ -289,15 +289,15 @@
 #  objectType: Item
 #  description: crafting-menu-text-FO
 
-#- type: construction
-#  name: crafting-menu-name-WH
-#  id: HiltWood
-#  graph: HiltWoodGraph
-#  startNode: start
-#  targetNode: hilt
-#  category: construction-category-tools
-#  objectType: Item
-#  description: crafting-menu-text-WH
+- type: construction
+  name: crafting-menu-name-WH
+  id: HiltWood
+  graph: HiltWoodGraph
+  startNode: start
+  targetNode: hilt
+  category: construction-category-tools
+  objectType: Item
+  description: crafting-menu-text-WH
 
 #- type: construction
 #  name: crafting-menu-name-PH
@@ -309,15 +309,15 @@
 #  objectType: Item
 #  description: crafting-menu-text-PH
 
-#- type: construction
-#  name: crafting-menu-name-SB
-#  id: BladeSteel
-#  graph: BladeSteelGraph
-#  startNode: start
-#  targetNode: blade
-#  category: construction-category-tools
-#  objectType: Item
-#  description: crafting-menu-text-SB
+- type: construction
+  name: crafting-menu-name-SB
+  id: BladeSteel
+  graph: BladeSteelGraph
+  startNode: start
+  targetNode: blade
+  category: construction-category-tools
+  objectType: Item
+  description: crafting-menu-text-SB
 
 #- type: construction
 #  name: crafting-menu-name-PB
@@ -339,15 +339,15 @@
 #  objectType: Item
 #  description: crafting-menu-text-MSW
 
-#- type: construction
-#  name: crafting-menu-name-ISW
-#  id: SwordImprovised
-#  graph: SwordImprovisedGraph
-#  startNode: start
-#  targetNode: sword
-#  category: construction-category-weapons
-#  objectType: Item
-#  description: crafting-menu-text-ISW
+- type: construction
+  name: crafting-menu-name-ISW
+  id: SwordImprovised
+  graph: SwordImprovisedGraph
+  startNode: start
+  targetNode: sword
+  category: construction-category-weapons
+  objectType: Item
+  description: crafting-menu-text-ISW
 
 #- type: construction
 #  name: crafting-menu-name-FSW
